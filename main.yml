@@ -1,0 +1,6 @@
+---
+- hosts: all
+  roles:
+   - role: oracle-java-master
+   - role: jira
+ 
